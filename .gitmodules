@@ -1,0 +1,9 @@
+[submodule "template/chappie-core"]
+	path = template/chappie-core
+	url = https://github.com/Forairaaaaa/Chappie-Core.git
+[submodule "template/esp-yellow-display"]
+	path = template/esp-yellow-display
+	url = https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display.git
+[submodule "template/peak-t2"]
+	path = template/peak-t2
+	url = https://gitee.com/forairaaaaa/peak-t2.git
