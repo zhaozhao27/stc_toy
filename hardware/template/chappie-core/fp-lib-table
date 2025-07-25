@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ProPrj_【ESP32-S3】1.69寸触摸屏迷你控制器~_2025-07-25")(type "KiCad")(uri "$(KIPRJMOD)/ProPrj_【ESP32-S3】1.69寸触摸屏迷你控制器~_2025-07-25.pretty")(options "")(descr ""))
+)

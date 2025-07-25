@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ProPrj_【Peak-T2.0】基于ESP32的2.0英寸触摸屏小终端_2025-07-25")(type "KiCad")(uri "$(KIPRJMOD)/ProPrj_【Peak-T2.0】基于ESP32的2.0英寸触摸屏小终端_2025-07-25.pretty")(options "")(descr ""))
+)
